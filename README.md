@@ -51,7 +51,7 @@ WhateverGreen.kex----------------1.4.4
 
 AppleALC.kext---------------------1.5.4
 
-IntelMausi.kext--------------------1.0.4
+IntelMausi.kext---------------------1.0.4
 
 LucyRTL8125Ethernet.kext---------1.0.0
 
