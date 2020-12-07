@@ -62,15 +62,15 @@ NVMeFix.kext-----------------------1.0.4
 
 USB端口定制了15个端口，AsrockZ490Mitx-15USBPorts.kext  见USBports截图
 
-
-默认config.plist               支持核显双4K输出，DP支持4K60HZ，HDMI支持4K30HZ
-
-AMD RX5500t& IGPU.plist       支持AMD RX5500XT 仿冒成Radeon Pro W5500X  ，IGPU核显作为加速 ，id为0300C89B
-
-AMD RX5600/5700& IGPU.plist   支持AMD RX5600XT、5700、5700XT 仿冒成Radeon Pro W5700X  ，IGPU核显作为加速，id为0300C89B
-
-
 使用2.5G有线网卡 联网设置：系统偏好设置—-网络—以太网—高级——硬件—配置有自动改为手动，速率手工设置为1000 全双工（或100，取决于网线链接路由器的端口速率），见图
+
+情景NO.1 无独显默认config.plist               支持核显双4K输出，DP支持4K60HZ，HDMI支持4K30HZ
+
+情景NO.2 AMD RX5500t& IGPU.plist       支持AMD RX5500XT 仿冒成Radeon Pro W5500X  ，IGPU核显作为加速 ，id为0300C89B
+
+情景NO.3 AMD RX5600/5700& IGPU.plist   支持AMD RX5600XT、5700、5700XT 仿冒成Radeon Pro W5700X  ，IGPU核显作为加速，id为0300C89B
+
+
 
 
 若有其他问题请加Q群：1125705781，备注小明或者B站
