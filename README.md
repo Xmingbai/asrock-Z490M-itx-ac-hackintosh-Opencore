@@ -21,7 +21,8 @@ OC0.6.3 支持Catalina 10.15.x 和Big Sur 11.0.1 支持OTA升级
 
 CPU正常睿频
 核显双硬解正常
-音频输出正常
+音频输出正常（alcid=50）
+有线双网卡设置
 蓝牙、WiFi正常  支持隔空、接力、随航
 睡眠及唤醒正常，支持USB唤醒
 
@@ -42,12 +43,15 @@ https://space.bilibili.com/591453294/article
 USB端口定制了15个端口，AsrockZ490Mitx-15USBPorts.kext  见USBports截图
 
 
-
 默认config.plist               支持核显双4K输出，DP支持4K60HZ，HDMI支持4K30HZ
 
 AMD RX5500t& IGPU.plist       支持AMD RX5500XT 仿冒成Radeon Pro W5500X  ，IGPU核显作为加速 ，id为0300C89B
 
 AMD RX5600/5700& IGPU.plist   支持AMD RX5600XT、5700、5700XT 仿冒成Radeon Pro W5700X  ，IGPU核显作为加速，id为0300C89B
 
-如有其他问题，请加Q群：1125705781，备注小明或者B站
+
+使用2.5G有线网卡 联网设置：系统偏好设置—-网络—以太网—高级——硬件—配置有自动改为手动，速率手工设置为1000 （或100，取决于网线链接路由器的端口速率），见图
+
+
+若有其他问题请加Q群：1125705781，备注小明或者B站
 
