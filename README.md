@@ -3,7 +3,8 @@
 asrock Z490M itx hackintosh catalina&amp;big sur
 
 
-1.基本硬件配置清单 及截图
+1.基本硬件配置清单 及基本截图
+
 CPU：i7-10700（支持所有十代）
 
 主板：Asrock Z490M itx/ac
