@@ -43,11 +43,11 @@ https://space.bilibili.com/591453294/article
 
 基本驱动及对应版本
 
-Lilu.kext-----------------------1.4.9
+Lilu.kext------------------------1.4.9
 
-VirtualSMC.kext-----------------1.1.8 
+VirtualSMC.kext------------------1.1.8 
 
-WhateverGreen.kex---------------1.4.4
+WhateverGreen.kex----------------1.4.4
 
 AppleALC.kext--------------------1.5.4
 
