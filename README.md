@@ -27,13 +27,16 @@ CPU正常睿频
 3.bios 设置参考指南   
 https://www.bilibili.com/read/cv7393476
 
-华擎、华硕、维修、技嘉主板针对性详细黑苹果bios设置参考B站专栏
+
+另 四大主板厂商华擎、华硕、维修、技嘉 针对性 详细截图 黑苹果bios设置 参考B站专栏
+
 https://space.bilibili.com/591453294/article
 
 
 5.OC0.6.3 引导基本使用说明
 
 USB端口定制了15个端口，AsrockZ490Mitx-15USBPorts.kext  见USB截图
+
 
 
 默认config.plist               支持核显双4K输出，DP支持4K60HZ，HDMI支持4K30HZ
