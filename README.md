@@ -1,4 +1,5 @@
-# asrock-Z490M-itx-hackintosh
+# asrock-Z490M-itx-hackintosh  opencore0.6.3
+
 asrock Z490M itx hackintosh catalina&amp;big sur
 
 
@@ -15,6 +16,9 @@ Wi-Fi：BCM94352Z
 
 
 2.实现的功能
+
+OC0.6.3 支持Catalina 10.15.x 和Big Sur 11.0.1 支持OTA升级
+
 CPU正常睿频
 核显双硬解正常
 音频输出正常
@@ -35,7 +39,7 @@ https://space.bilibili.com/591453294/article
 
 5.OC0.6.3 引导基本使用说明
 
-USB端口定制了15个端口，AsrockZ490Mitx-15USBPorts.kext  见USB截图
+USB端口定制了15个端口，AsrockZ490Mitx-15USBPorts.kext  见USBports截图
 
 
 
