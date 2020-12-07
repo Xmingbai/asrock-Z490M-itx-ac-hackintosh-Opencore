@@ -39,7 +39,19 @@ https://www.bilibili.com/read/cv7393476
 https://space.bilibili.com/591453294/article
 
 
-5.OC0.6.3 引导基本使用说明
+4.OC0.6.3 引导基本使用说明
+
+基本驱动	                        对应版本
+Lilu.kext  ----------------------1.4.9
+VirtualSMC.kext  ----------------1.1.8 
+WhateverGreen.kext	-------------1.4.4
+AppleALC.kext	-------------------1.5.4
+IntelMausi.kext	-----------------1.0.4
+LucyRTL8125Ethernet.kext --------1.0.0
+NVMeFix.kext  -------------------1.0.4
+
+
+
 
 USB端口定制了15个端口，AsrockZ490Mitx-15USBPorts.kext  见USBports截图
 
