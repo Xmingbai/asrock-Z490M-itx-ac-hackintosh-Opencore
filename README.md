@@ -1,9 +1,10 @@
 # asrock-Z490M-itx-hackintosh  opencore0.6.3
+===============================================
 
 asrock Z490M itx hackintosh Catalina 10.15.x &   big sur 11.0.1
 
 
-#1.基本硬件配置清单 及基本截图
+# 1.基本硬件配置清单 及基本截图
 
 CPU：i7-10700（支持所有十代）
 
@@ -16,9 +17,10 @@ Wi-Fi：BCM94352Z
 内存；十铨火神DDR4 3000  16gx2
 
 
-#2.实现的功能
+# 2.MACOS状况
 
 OC0.6.3 支持Catalina 10.15.x 和Big Sur 11.0.1 支持OTA升级
+## PC截图
 
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
 
@@ -26,6 +28,7 @@ OC0.6.3 支持Catalina 10.15.x 和Big Sur 11.0.1 支持OTA升级
 
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/IGPU%20DP%25HDMI.png)
 
+## 基本功能
 CPU正常睿频
 核显双硬解正常
 音频输出正常（alcid=50）
@@ -36,7 +39,7 @@ CPU正常睿频
 未修正的地方
 暂未发现
 
-#3.bios 设置参考指南   
+# 3.bios 设置参考指南   
 https://www.bilibili.com/read/cv7393476
 
 
@@ -45,7 +48,7 @@ https://www.bilibili.com/read/cv7393476
 https://space.bilibili.com/591453294/article
 
 
-#4.OC0.6.3 引导使用指南
+# 4.OC0.6.3 引导使用指南
 
 ##基本驱动及对应版本
 
@@ -66,12 +69,12 @@ NVMeFix.kext-----------------------1.0.4
 
 
 
-##USB端口定制了15个端口，AsrockZ490Mitx-15USBPorts.kext  见USBports截图
+## USB端口定制了15个端口，AsrockZ490Mitx-15USBPorts.kext  见USBports截图
 
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/USBports.png)
 
 
-###USB具体分布如下图
+### USB具体分布如下图
 
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/%E4%B8%BB%E6%9D%BFUSB%20%26%E6%9C%BA%E7%AE%B1%E5%89%8D%E7%BD%AEUSB.png)
 
@@ -79,13 +82,15 @@ NVMeFix.kext-----------------------1.0.4
 
 
 
-##使用2.5G有线网卡 联网设置：系统偏好设置—-网络—以太网—高级——硬件—配置有自动改为手动，速率手工设置为1000 全双工（或100，取决于网线链接路由器的端口速率），见图
+## 如何使用2.5G有线网卡
+ 
+ 联网设置：系统偏好设置—-网络—以太网—高级——硬件—配置有自动改为手动，速率手工设置为1000 全双工（或100，取决于网线链接路由器的端口速率），见图
 
 
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/2.5G%E7%BD%91%E5%8D%A1%E8%AE%BE%E7%BD%AE.png)
 
 
-###config.plist使用
+### config.plist使用
 
 情景NO.1 无独显默认config.plist               支持核显双4K输出，DP支持4K60HZ，HDMI支持4K30HZ
 
@@ -96,5 +101,5 @@ NVMeFix.kext-----------------------1.0.4
 
 
 
-#若有其他问题请加Q群：1125705781，备注小明或者B站
+# 若有其他问题请加Q群：1125705781，备注小明或者B站
 
