@@ -68,6 +68,11 @@ NVMeFix.kext-----------------------1.0.4
 
 USB端口定制了15个端口，AsrockZ490Mitx-15USBPorts.kext  见USBports截图
 
+![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/USBports.png)
+
+
+USB具体分布如下图
+
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/%E4%B8%BB%E6%9D%BFUSB%20%26%E6%9C%BA%E7%AE%B1%E5%89%8D%E7%BD%AEUSB.png)
 
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/%E5%90%8E%E7%BD%AEUSB.png)
