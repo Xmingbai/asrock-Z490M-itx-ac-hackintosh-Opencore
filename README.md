@@ -14,7 +14,7 @@ SSD：SN750 500G
 
 Wi-Fi：intel wifi 更换为 BCM94352Z
 
-内存；十铨火神DDR4 3000  16gx2
+内存；十铨火神DDR4 3000  16gx2（拆下一根）
 
 
 
