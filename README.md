@@ -6,7 +6,7 @@ asrock Z490M itx hackintosh Catalina 10.15.x &   big sur 11.0.1
 
 # 1.基本硬件配置清单 及基本截图
 
-CPU：i7-10700（支持所有十代）
+CPU：i7-10700（可以支持所有十代）
 
 主板：Asrock Z490M itx/ac
 
@@ -37,20 +37,21 @@ CPU正常睿频
 
 音频输出正常（alcid=50）
 
-有线双网卡设置
+支持有线双网卡
 
 蓝牙、WiFi正常  支持隔空、接力、随航
 
 睡眠及唤醒正常，支持USB唤醒
 
-未修正的地方
-暂未发现
+未修正的地方 ：暂未发现
 
 # 3.bios 设置参考指南   
+
 https://www.bilibili.com/read/cv7393476
 
 
 另 四大主板厂商华擎、华硕、维修、技嘉 针对性 详细截图 黑苹果bios设置 参考B站专栏
+
 
 https://space.bilibili.com/591453294/article
 
@@ -76,7 +77,7 @@ NVMeFix.kext-----------------------1.0.4
 
 
 
-## USB端口定制了15个端口，AsrockZ490Mitx-15USBPorts.kext  见USBports截图
+## USB端口定制了15个端口，见USBports截图
 
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/USBports.png)
 
@@ -84,6 +85,7 @@ NVMeFix.kext-----------------------1.0.4
 ### USB具体分布如下图
 
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/%E4%B8%BB%E6%9D%BFUSB%20%26%E6%9C%BA%E7%AE%B1%E5%89%8D%E7%BD%AEUSB.png)
+
 
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/%E5%90%8E%E7%BD%AEUSB.png)
 
@@ -99,11 +101,11 @@ NVMeFix.kext-----------------------1.0.4
 
 ### config.plist使用
 
-情景NO.1 无独显默认config.plist               支持核显双4K输出，DP支持4K60HZ，HDMI支持4K30HZ
+情景NO.1  无独显默认config.plist               支持核显双4K输出，DP支持4K60HZ，HDMI支持4K30HZ
 
-情景NO.2 AMD RX5500t& IGPU.plist       支持AMD RX5500XT 仿冒成Radeon Pro W5500X  ，IGPU核显作为加速 ，id为0300C89B
+情景NO.2  AMD RX5500t& IGPU.plist       支持AMD RX5500XT 仿冒成Radeon Pro W5500X  ，IGPU核显作为加速 ，id为0300C89B
 
-情景NO.3 AMD RX5600/5700& IGPU.plist   支持AMD RX5600XT、5700、5700XT 仿冒成Radeon Pro W5700X  ，IGPU核显作为加速，id为0300C89B
+情景NO.3  AMD RX5600/5700& IGPU.plist   支持AMD RX5600XT、5700、5700XT 仿冒成Radeon Pro W5700X  ，IGPU核显作为加速，id为0300C89B
 
 
 
