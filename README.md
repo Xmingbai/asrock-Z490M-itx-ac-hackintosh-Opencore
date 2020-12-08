@@ -18,6 +18,8 @@ Wi-Fi：intel wifi 更换为 BCM94352Z
 
 # 若有其他问题请加Q群：1125705781，备注小明或者B站，也欢迎关注B站：小明和他的女朋友
 
+此份操作指南 同步 发布于B站专栏 https://www.bilibili.com/read/cv8721205
+
 # 2.macOS 状况
 
 OC0.6.3 支持Catalina 10.15.x 和Big Sur 11.0.1 支持OTA升级，支持直装
