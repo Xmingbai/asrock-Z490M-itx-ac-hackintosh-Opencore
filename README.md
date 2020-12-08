@@ -16,7 +16,7 @@ Wi-Fi：intel wifi 更换为 BCM94352Z
 
 内存；十铨火神DDR4 3000  16gx2（拆下一根）
 
-
+# 若有其他问题请加Q群：1125705781，备注小明或者B站，也欢迎关注B站：小明和他的女朋友
 
 # 2.macOS 状况
 
@@ -79,6 +79,13 @@ LucyRTL8125Ethernet.kext---------1.0.0
 NVMeFix.kext----------------------1.0.4
 
 
+## config.plist使用
+
+情景NO.1  无独显默认config.plist               支持核显双4K输出，DP支持4K60HZ，HDMI支持4K30HZ
+
+情景NO.2  AMD RX5500t& IGPU.plist       支持AMD RX5500XT 仿冒成Radeon Pro W5500X  ，IGPU核显作为加速 ，id为0300C89B
+
+情景NO.3  AMD RX5600/5700& IGPU.plist   支持AMD RX5600XT、5700、5700XT 仿冒成Radeon Pro W5700X  ，IGPU核显作为加速，id为0300C89B
 
 
 ## USB端口定制了15个端口，见USBports截图
@@ -104,17 +111,5 @@ NVMeFix.kext----------------------1.0.4
 
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/2.5G%E7%BD%91%E5%8D%A1%E8%AE%BE%E7%BD%AE.png)
 
-
-### config.plist使用
-
-情景NO.1  无独显默认config.plist               支持核显双4K输出，DP支持4K60HZ，HDMI支持4K30HZ
-
-情景NO.2  AMD RX5500t& IGPU.plist       支持AMD RX5500XT 仿冒成Radeon Pro W5500X  ，IGPU核显作为加速 ，id为0300C89B
-
-情景NO.3  AMD RX5600/5700& IGPU.plist   支持AMD RX5600XT、5700、5700XT 仿冒成Radeon Pro W5700X  ，IGPU核显作为加速，id为0300C89B
-
-
-
-
-# 若有其他问题请加Q群：1125705781，备注小明或者B站
+# 若有其他问题请加Q群：1125705781，备注小明或者B站，也欢迎关注B站：小明和他的女朋友
 
