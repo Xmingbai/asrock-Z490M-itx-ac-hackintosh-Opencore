@@ -12,14 +12,16 @@ CPU：i7-10700（支持所有十代）
 
 SSD：SN750 500G
 
-Wi-Fi：BCM94352Z
+Wi-Fi：intel wifi 更换为 BCM94352Z
 
 内存；十铨火神DDR4 3000  16gx2
 
 
-# 2.MACOS状况
+
+# 2.macOS 状况
 
 OC0.6.3 支持Catalina 10.15.x 和Big Sur 11.0.1 支持OTA升级
+
 ## PC截图
 
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
