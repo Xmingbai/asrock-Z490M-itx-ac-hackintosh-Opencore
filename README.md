@@ -20,7 +20,7 @@ Wi-Fi：intel wifi 更换为 BCM94352Z
 
 # 2.macOS 状况
 
-OC0.6.3 支持Catalina 10.15.x 和Big Sur 11.0.1 支持OTA升级
+OC0.6.3 支持Catalina 10.15.x 和Big Sur 11.0.1 支持OTA升级，支持直装
 
 ## PC截图
 
@@ -85,7 +85,7 @@ NVMeFix.kext-----------------------1.0.4
 
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/USBports.png)
 
-双网口部分的4个USB支持10G速率
+双网口附近的4个USB支持10G速率
 
 
 ### USB具体分布如下图
