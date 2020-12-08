@@ -81,6 +81,8 @@ NVMeFix.kext-----------------------1.0.4
 
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/USBports.png)
 
+双网口部分的4个USB支持10G速率
+
 
 ### USB具体分布如下图
 
