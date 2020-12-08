@@ -1,6 +1,6 @@
 # asrock-Z490M-itx-hackintosh  opencore0.6.3
 
-asrock Z490M itx hackintosh catalina&amp;big sur
+asrock Z490M itx hackintosh Catalina 10.15.x &   big sur 11.0.1
 
 
 1.基本硬件配置清单 及基本截图
@@ -19,6 +19,12 @@ Wi-Fi：BCM94352Z
 2.实现的功能
 
 OC0.6.3 支持Catalina 10.15.x 和Big Sur 11.0.1 支持OTA升级
+
+![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
+
+![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/CPU%20geekbench.png)
+
+![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/IGPU%20DP%25HDMI.png)
 
 CPU正常睿频
 核显双硬解正常
@@ -39,7 +45,7 @@ https://www.bilibili.com/read/cv7393476
 https://space.bilibili.com/591453294/article
 
 
-4.OC0.6.3 引导基本使用说明
+4.OC0.6.3 引导使用指南
 
 基本驱动及对应版本
 
@@ -62,7 +68,18 @@ NVMeFix.kext-----------------------1.0.4
 
 USB端口定制了15个端口，AsrockZ490Mitx-15USBPorts.kext  见USBports截图
 
+![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/%E4%B8%BB%E6%9D%BFUSB%20%26%E6%9C%BA%E7%AE%B1%E5%89%8D%E7%BD%AEUSB.png)
+
+![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/%E5%90%8E%E7%BD%AEUSB.png)
+
+
+
 使用2.5G有线网卡 联网设置：系统偏好设置—-网络—以太网—高级——硬件—配置有自动改为手动，速率手工设置为1000 全双工（或100，取决于网线链接路由器的端口速率），见图
+
+
+![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/2.5G%E7%BD%91%E5%8D%A1%E8%AE%BE%E7%BD%AE.png)
+
+
 
 情景NO.1 无独显默认config.plist               支持核显双4K输出，DP支持4K60HZ，HDMI支持4K30HZ
 
