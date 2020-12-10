@@ -14,7 +14,7 @@ SSD：SN750 500G
 
 Wi-Fi：intel wifi 更换为 BCM94352Z
 
-内存；十铨火神DDR4 3000  16gx2（拆下一根）
+内存；十铨火神DDR4 3000  16gx2
 
 # 若有其他问题请加Q群：1125705781，备注小明或者B站，也欢迎关注B站：小明和他的女朋友
 
@@ -88,6 +88,8 @@ NVMeFix.kext----------------------1.0.4
 情景NO.2  AMD RX5500t& IGPU.plist       支持AMD RX5500XT 仿冒成Radeon Pro W5500X  ，IGPU核显作为加速 ，id为0300C89B
 
 情景NO.3  AMD RX5600/5700& IGPU.plist   支持AMD RX5600XT、5700、5700XT 仿冒成Radeon Pro W5700X  ，IGPU核显作为加速，id为0300C89B
+
+
 
 
 ## USB端口定制了15个端口，见USBports截图
