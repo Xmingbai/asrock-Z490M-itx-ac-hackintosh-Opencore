@@ -9,6 +9,11 @@
 
 ☆ 更换OC主题包
 
+☆ 正常直升11.1 正式版20C69
+
+
+![](https://github.com/Xmingbai/asrock-Z490M-itx-ac-hackintosh-Opencore/blob/main/11.1%E6%AD%A3%E5%BC%8F%E7%89%88.png)
+
 
 # asrock-Z490M-itx-hackintosh  opencore0.6.3
 ===============================================
