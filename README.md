@@ -1,3 +1,15 @@
+
+# asrock-Z490M-itx-hackintosh  opencore0.6.4
+
+改变部分
+
+☆ 升级kext驱动到最新正式版本
+
+☆ 新增一组配置文件 AMD RX5XX& IGPU.plist
+
+☆ 更换OC主题包
+
+
 # asrock-Z490M-itx-hackintosh  opencore0.6.3
 ===============================================
 
@@ -62,7 +74,7 @@ https://www.bilibili.com/read/cv7393476
 https://space.bilibili.com/591453294/article
 
 
-# 4.OC0.6.3 引导使用指南
+# 4.OC0.6.3 引导使用指南 
 
 ## 基本驱动及对应版本
 
@@ -89,7 +101,9 @@ NVMeFix.kext----------------------1.0.4
 
 情景NO.3  AMD RX5600/5700& IGPU.plist   支持AMD RX5600XT、5700、5700XT 仿冒成Radeon Pro W5700X  ，IGPU核显作为加速，id为0300C89B
 
+情景NO.4  AMD RX5XX& IGPU.plist   支持独显AMD RX560、570、580、590等  ，IGPU核显作为加速，id为0300C89B
 
+根据自己实际情况，选择对应配置文件改名为config.plist
 
 
 ## USB端口定制了15个端口，见USBports截图
