@@ -92,7 +92,7 @@ https://space.bilibili.com/591453294/article
 
 # 4.OC0.6.3 引导使用指南 
 
-## 基本驱动及对应版本
+## 4.1 基本驱动及对应版本
 
 Lilu.kext----------------------------1.4.9
 
@@ -109,7 +109,7 @@ LucyRTL8125Ethernet.kext---------1.0.0
 NVMeFix.kext----------------------1.0.4
 
 
-## OC配置文件config.plist如何使用
+## 4.2 OC配置文件config.plist如何使用
 
 ### 情景NO.1  无独显默认config.plist      
 
@@ -130,7 +130,7 @@ NVMeFix.kext----------------------1.0.4
 ### 根据自己实际情况，选择对应配置文件改名为config.plist，最好自己重新生成三码。
 
 
-## USB端口定制了15个端口，见USBports截图
+## 4.3 USB端口定制了15个端口，见USBports截图
 
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/USBports.png)
 
@@ -146,7 +146,7 @@ NVMeFix.kext----------------------1.0.4
 
 
 
-## 如何使用2.5G有线网卡
+## 4.4 如何使用2.5G有线网卡
  
  联网设置：系统偏好设置—-网络—以太网—高级——硬件—配置有自动改为手动，速率手工设置为1000 全双工（或100，取决于网线链接路由器的端口速率），见图
 
