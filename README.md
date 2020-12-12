@@ -109,7 +109,7 @@ LucyRTL8125Ethernet.kext---------1.0.0
 NVMeFix.kext----------------------1.0.4
 
 
-## config.plist使用
+## OC配置文件config.plist如何使用
 
 ### 情景NO.1  无独显默认config.plist      
 
