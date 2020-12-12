@@ -111,15 +111,23 @@ NVMeFix.kext----------------------1.0.4
 
 ## config.plist使用
 
-情景NO.1  无独显默认config.plist               支持核显双4K输出，DP支持4K60HZ，HDMI支持4K30HZ
+### 情景NO.1  无独显默认config.plist      
 
-情景NO.2  AMD RX5500t& IGPU.plist       支持AMD RX5500XT 仿冒成Radeon Pro W5500X  ，IGPU核显作为加速 ，id为0300C89B
+支持核显双4K输出，DP支持4K60HZ，HDMI支持4K30HZ
 
-情景NO.3  AMD RX5600/5700& IGPU.plist   支持AMD RX5600XT、5700、5700XT 仿冒成Radeon Pro W5700X  ，IGPU核显作为加速，id为0300C89B
+### 情景NO.2  AMD RX5500t& IGPU.plist     
 
-情景NO.4  AMD RX5XX& IGPU.plist   支持独显AMD RX560、570、580、590等  ，IGPU核显作为加速，id为0300C89B
+支持AMD RX5500XT 仿冒成Radeon Pro W5500X  ，IGPU核显作为加速 ，id为0300C89B
 
-根据自己实际情况，选择对应配置文件改名为config.plist，最好自己重新生成三码。
+### 情景NO.3  AMD RX5600/5700& IGPU.plist 
+
+支持AMD RX5600XT、5700、5700XT 仿冒成Radeon Pro W5700X  ，IGPU核显作为加速，id为0300C89B
+
+### 情景NO.4  AMD RX5XX& IGPU.plist  
+
+支持独显AMD RX560、570、580、590等  ，IGPU核显作为加速，id为0300C89B
+
+### 根据自己实际情况，选择对应配置文件改名为config.plist，最好自己重新生成三码。
 
 
 ## USB端口定制了15个端口，见USBports截图
