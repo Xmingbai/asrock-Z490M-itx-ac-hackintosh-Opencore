@@ -111,7 +111,7 @@ NVMeFix.kext----------------------1.0.4
 
 情景NO.4  AMD RX5XX& IGPU.plist   支持独显AMD RX560、570、580、590等  ，IGPU核显作为加速，id为0300C89B
 
-根据自己实际情况，选择对应配置文件改名为config.plist
+根据自己实际情况，选择对应配置文件改名为config.plist，最好自己重新生成三码。
 
 
 ## USB端口定制了15个端口，见USBports截图
