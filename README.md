@@ -1,7 +1,8 @@
 ===============================================
 # asrock-Z490M-itx-hackintosh  opencore0.6.4
 ===============================================
-改变部分
+
+更新部分
 
 ☆ 升级kext驱动到最新正式版本
 
@@ -14,6 +15,8 @@
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-ac-hackintosh-Opencore/blob/main/%E6%96%B0OC%E4%B8%BB%E9%A2%98.png)
 
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-ac-hackintosh-Opencore/blob/main/11.1%2020C69.png)
+
+
 
 
 ===============================================
@@ -38,7 +41,9 @@ Wi-Fi：intel wifi 更换为 BCM94352Z
 
 # 若有其他问题请加Q群：1125705781，备注小明或者B站，也欢迎关注B站：小明和他的女朋友
 
-此份操作指南 同步 发布于B站专栏，方便国内访问  https://www.bilibili.com/read/cv8721205 
+此份操作指南 同步 发布于B站专栏，方便国内访问  
+
+https://www.bilibili.com/read/cv8721205 
 
 # 2.macOS 状况
 
@@ -53,6 +58,7 @@ OC0.6.3 支持Catalina 10.15.x 和Big Sur 11.0.1 支持OTA升级，支持直装
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/IGPU%20DP%25HDMI.png)
 
 ## 基本功能
+
 CPU正常睿频
 
 核显双硬解正常
