@@ -1,6 +1,6 @@
-
+===============================================
 # asrock-Z490M-itx-hackintosh  opencore0.6.4
-
+===============================================
 改变部分
 
 ☆ 升级kext驱动到最新正式版本
@@ -15,6 +15,8 @@
 
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-ac-hackintosh-Opencore/blob/main/11.1%2020C69.png)
 
+
+===============================================
 
 # asrock-Z490M-itx-hackintosh  opencore0.6.3
 ===============================================
