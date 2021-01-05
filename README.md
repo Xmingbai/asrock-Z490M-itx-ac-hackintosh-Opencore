@@ -155,5 +155,7 @@ NVMeFix.kext----------------------1.0.4
 
 ![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/2.5G%E7%BD%91%E5%8D%A1%E8%AE%BE%E7%BD%AE.png)
 
-# 若有其他问题请加Q群：1125705781，备注小明或者B站，也欢迎关注B站：小明和他的女朋友
+# 若有其他问题请加Q群：1125705781，备注小明或者B站
+
+# 也欢迎关注B站：小明和他的女朋友
 
