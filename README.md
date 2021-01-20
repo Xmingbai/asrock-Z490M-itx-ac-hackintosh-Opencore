@@ -86,7 +86,7 @@ CPU正常睿频
 https://www.bilibili.com/read/cv7393476
 
 
-另 四大主板厂商华擎、华硕、维修、技嘉 针对性 详细截图 黑苹果bios设置 参考B站专栏
+另 四大主板厂商华擎、华硕、微星、技嘉 针对性 详细截图 黑苹果bios设置 参考B站专栏
 
 
 https://space.bilibili.com/591453294/article
