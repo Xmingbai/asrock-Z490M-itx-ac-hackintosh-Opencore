@@ -8,7 +8,9 @@
 
 ☆ 升级kext驱动到最新正式版本
 
-☆  精简ACPI ，添加系统判断，避大部分免OC引导windows蓝屏
+☆ 音频输出 增加了核显（DP或者HDMI）显示器音频输出
+
+☆ 精简ACPI ，添加系统判断，避大部分免OC引导windows蓝屏
 
 ☆ device properties 内包含RX55000xt\5600&5700优化信息，需要手工启用（去掉前置#就行）
 
