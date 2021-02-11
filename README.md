@@ -2,15 +2,19 @@
 # asrock-Z490M-itx/ac-hackintosh  opencore0.6.6
 ===============================================================================
 
+
+
 更新部分
 
 ☆ 升级kext驱动到最新正式版本
 
-☆ device properties 
+☆ device properties 内包含RX55000xt\5600&5700优化信息，需要手工启用（去掉前置#就行）
 
-☆ 更换OC主题包
+☆ 更换OC主题包（支持OC UI 随意切换有三个背景选择，改名为Background.icns即可）
 
-☆ 正常直升11.1 20C69
+☆ 正常直升11.2 （支持11.3 beta x）
+
+![](https://github.com/Xmingbai/hackintosh-opencore--UI-theme/blob/main/TipsBackground.png)
 
 
 ===============================================================================
