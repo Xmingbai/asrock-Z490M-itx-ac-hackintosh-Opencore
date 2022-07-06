@@ -1,4 +1,16 @@
+===========================================================================
+# asrock-Z490M-itx/ac-hackintosh  opencore0.8.2 
+===========================================================================
 
+1.更新至0.8.2正式版，支持Catalina 10.15.x、bigsur 11.6.x、Monterey 12.x、MacOS 13 beta
+
+2.更新Kexts至最新版本，修复睡眠丢失核显DP或HDMI音频
+
+3.默认config.plist 支持所有Navi核心独立显卡并支持其温度监控（需要自己去勾选RadeonSensor.kext和SMCRadeonGPU.kext，OS13已不需要）
+
+4.如只有核显，IGPU.plist 可改名为config.plist来使用
+
+5.引导默认支持（BCM94352Z、DW1560、DW1830、BCM94360NG、BCM94360Z3\Z4）博通无线网
 
 ===========================================================================
 # asrock-Z490M-itx/ac-hackintosh  opencore0.8.0
