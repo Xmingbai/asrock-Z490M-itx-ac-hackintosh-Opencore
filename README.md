@@ -221,16 +221,28 @@ CPU正常睿频
 # 3.bios 设置参考指南   
 
 Enable :
+
 SATA Operation : AHCI
+
 XHCI Hand-Off
 
+
+
 Disable :
+
 Secure Boot
+
 Intel SGX
+
 Fastboot
+
 CFG LOCK
+
 Boot From Onboard LAN
+
 CSM (Most Important)
+
+
 
 https://www.bilibili.com/read/cv7393476
 
