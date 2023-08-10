@@ -2,7 +2,8 @@
 # asrock-Z490M-itx/ac-hackintosh  opencore0.9.0 beta（0303）
 ===========================================================================
 
-1.更新至0.9.0最新测试版，支持Catalina 10.15.x、bigsur 11.x、Monterey 12.x、MacOS 13.3
+1.更新至0.9.0最新测试版，支持Catalina 10.15.x、bigsur 11.x、Monterey 12.x、MacOS 13.x
+
 2.更新Kexts至最新版本
 
 3.默认config.plist 支持所有Navi核心独立显卡并支持其温度监控（需要自己去勾选RadeonSensor.kext和SMCRadeonGPU.kext，OS13已不需要）
